@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
-    <loc>https://healthy-wellness-7ovdlggoc-simone-s-projects20.vercel.app/</loc>
+    <loc>https://healthy-wellnesscom.vercel.app/</loc>
   </url>
+
+  <url>
+    <loc>https://healthy-wellnesscom.vercel.app/login</loc>
+  </url>
+
+  <url>
+    <loc>https://healthy-wellnesscom.vercel.app//register</loc>
+  </url>
+
 </urlset>
